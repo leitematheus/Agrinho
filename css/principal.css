@@ -1,0 +1,18 @@
+.principal-titulo{
+    margin: 2em;
+    text-align: center;
+    font-weight: bold;
+    font-size: 130%;
+}
+
+.principal-container{
+    display: flex;
+    align-items: center;
+    margin: 2em;
+}
+
+.principal-texto{
+    padding: 2em;
+    font-size: 20px;
+    line-height: 2em;
+}

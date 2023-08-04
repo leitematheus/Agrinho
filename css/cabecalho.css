@@ -1,4 +1,27 @@
 .cabecalho{
     background-color: red;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+.menu-item{
+    margin-right: 10em;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    margin: 1em;
+}
+
+.titulo{
+    margin-left: 2em;
+    font-size: 25px;
+}
+
+
